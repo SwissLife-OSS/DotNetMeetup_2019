@@ -11,7 +11,7 @@ namespace HotChocolate.Examples.Paging
         protected override void Configure(IObjectTypeDescriptor<Query> descriptor)
         {
             descriptor.Field(t => t.GetMessages(default))
-                .UsePaging<ListType<MessageType>>()
+                .UsePaging<MessageType>()
                 .UseFiltering()
                 .UseSorting();
 
