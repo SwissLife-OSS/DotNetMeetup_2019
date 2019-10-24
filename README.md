@@ -1,4 +1,4 @@
-# .NET USER GROUP ZÜRICH with Hot Chocolate: GraphQL Schema Stitching with ASP.NET Core
+# .NET USER GROUP ZÜRICH with Hot Chocolate: GraphQL Schema Stitching on ASP.NET Core
 
 We have put all the demos and the slides from the meetup into this repository.
 
