@@ -20,5 +20,6 @@ Here are some important links:
 - [Hot Chocolate documentation](https://hotchocolate.io)
 
 
-** Recording **
-https://www.youtube.com/watch?v=2QLhcqFYRpg
+**Recording**
+
+[Youtube](https://www.youtube.com/watch?v=2QLhcqFYRpg)
